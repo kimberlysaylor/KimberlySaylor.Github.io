@@ -5,8 +5,8 @@
 ### General Analytics Projects
 
 ---
-#### [DoorDash Marketing Analysis](https://www.linkedin.com/doordash-marketing-analysis-kimberly-saylor)
-[<img src="images/Doordash_Graphic.png?raw=true"/>](https://www.linkedin.com/doordash-marketing-analysis-kimberly-saylor)
+#### [DoorDash Marketing Analysis](https://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor/)
+[<img src="images/Doordash_Graphic.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor)
 My first data analysis project on a food delivery service. 
 
 <!-- COMMENT:  Everything in this section is from Avery's original template.  Use these to create page when needed.
@@ -39,7 +39,7 @@ What are the top math schools in the state?
 
 ### Portfolio Projects
 
-- [DoorDash Analysis](http://www.linkedin.com/doordash-marketing-analysis-kimberly-saylor/)
+- [DoorDash Analysis](http://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor/)
 <!-- - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
