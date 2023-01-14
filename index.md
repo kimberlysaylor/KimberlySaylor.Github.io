@@ -1,9 +1,15 @@
-# Welcome to My Portfolio
+# Welcome to My Data Analytics Portfolio
 
 ---
 
-### Analytics Projects
+### General Analytics Projects
 
+---
+#### [DoorDash Marketing Analysis](https://www.linkedin.com/doordash-marketing-analysis-kimberly-saylor)
+[<img src="images/Doordash_Graphic.png?raw=true"/>](https://www.linkedin.com/doordash-marketing-analysis-kimberly-saylor)
+My first data analysis project on a food delivery service. 
+
+<!-- COMMENT:  Everything in this section is from Avery's original template.  Use these to create page when needed.
 #### [Internal Blog Post Project](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 (https://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor)
@@ -15,7 +21,7 @@ My first data analysis project on a food delivery service.
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
-#### [External Link Project](https://www.linkedin.com/doordash-marketing-analysis-kimberly-saylor)
+#### [DoorDash Marketing Analysis](https://www.linkedin.com/doordash-marketing-analysis-kimberly-saylor)
 [<img src="images/Doordash_Graphic.png?raw=true"/>](https://www.linkedin.com/doordash-marketing-analysis-kimberly-saylor)
 My first data analysis project on a food delivery service. 
 
@@ -28,15 +34,18 @@ What schools are struggling the most?
 How does class size affect college admission?
 What are the top math schools in the state? 
 
+-->
 ---
 
-### Category Name 2
+### Portfolio Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [DoorDash Analysis](http://www.linkedin.com/doordash-marketing-analysis-kimberly-saylor/)
+<!-- - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
+-->
+
 
 ---
 
