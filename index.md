@@ -1,15 +1,15 @@
-# Welcome to My Data Analytics Portfolio
+# My Data Analytics Portfolio
 
 ---
 
 ### General Analytics Projects
 
 ---
-#### [DoorDash Marketing Analysis](https://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor/)
+### [DoorDash Marketing Analysis](https://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor/)
 [<img src="images/Doordash_Graphic.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor)
-My first data analysis project on a food delivery service. 
+In this project I used Excel to analyze DoorDash data to determine which marketing campaign was most profitable. 
 
-#### [Massachusetts Education Analysis](/Massachusetts_Education)
+### [Massachusetts Education Analysis](/Massachusetts_Education)
 <img src="images/Massachusetts Education Analysis Video.jpg?raw=true"/>
 
 
@@ -47,6 +47,7 @@ What are the top math schools in the state?
 ### Portfolio Projects
 
 - [DoorDash Analysis](http://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor/)
+- [Massachusetts Education Analysis](/Massachusetts_Education)
 <!-- - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
