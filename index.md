@@ -9,8 +9,8 @@
 [<img src="images/Doordash_Graphic.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor)
 My first data analysis project on a food delivery service. 
 
-#### [Massachusetts Education Analysis(/MassachusettsEducationAnalysis)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### [Massachusetts Education Analysis](/Massachusetts_Education)
+<img src="images/Massachusetts Education Analysis Video.jpg?raw=true"/>
 
 
 
