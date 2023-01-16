@@ -5,13 +5,13 @@
 ### General Analytics Projects
 
 ---
-### [DoorDash Marketing Analysis](https://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor/)
-[<img src="images/Doordash_Graphic.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor)
-In this project I used Excel to analyze DoorDash data to determine which marketing campaign was most profitable. 
 
 ### [Massachusetts Education Analysis](/Massachusetts_Education)
 <img src="images/Massachusetts Education Analysis Video.jpg?raw=true"/>
 
+### [DoorDash Marketing Analysis](https://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor/)
+[<img src="images/Doordash_Graphic.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor)
+In this project I used Excel to analyze DoorDash data to determine which marketing campaign was most profitable. 
 
 
 
