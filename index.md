@@ -3,10 +3,8 @@
 ---
 
 ### General Analytics Projects
+<img src="images/My Data Portfolio Header.jpg?raw=true"/>
 
-<video width="320" height="240" controls>
-  <source src="files/My Data Portfolio Header.mp4" type="video/mp4">
- </video>
 ---
 
 ### [Massachusetts Education Analysis](/Massachusetts_Education)
