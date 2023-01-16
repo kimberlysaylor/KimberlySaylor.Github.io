@@ -3,8 +3,6 @@
 ---
 
 ### General Analytics Projects
-<img src="images/My Data Portfolio Header.jpg?raw=true"/>
-
 ---
 
 ### [Massachusetts Education Analysis](/Massachusetts_Education)
