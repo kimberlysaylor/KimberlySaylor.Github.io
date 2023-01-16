@@ -1,5 +1,5 @@
 # My Data Analytics Portfolio
-
+<img src="images/My_Data_Portfolio_Banner.jpg?raw=true"/>
 ---
 
 ### General Analytics Projects
