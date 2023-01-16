@@ -12,7 +12,8 @@ Being an educator, our focus is always on what skills a student needs to graduat
 
 
 <br><br>
-
+---
+---
 ### [DoorDash Marketing Analysis](https://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor/)
 [<img src="images/Doordash_Graphic.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor)
 In this project I used Excel to analyze DoorDash data to determine which marketing campaign was most profitable. 
