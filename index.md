@@ -48,7 +48,9 @@ What are the top math schools in the state?
 
 - [DoorDash Analysis](http://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor/)
 - [Massachusetts Education Analysis](/Massachusetts_Education)
-<!-- - [Project 2 Title](http://example.com/)
+
+<!-- 
+- [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
