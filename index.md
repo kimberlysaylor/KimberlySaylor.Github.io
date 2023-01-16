@@ -1,8 +1,9 @@
-# My Data Analytics Portfolio
+<!-- # My Data Analytics Portfolio -->
 <img src="images/My_Data_Portfolio_Banner.jpg?raw=true"/>
+
 ---
 
-### General Analytics Projects
+# General Analytics Projects
 ---
 
 ### [Massachusetts Education Analysis](/Massachusetts_Education)
