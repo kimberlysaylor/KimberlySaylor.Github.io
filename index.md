@@ -1,5 +1,5 @@
 <!-- # My Data Analytics Portfolio -->
-<img src="images/My_Data_Portfolio_Banner.jpg?raw=true"/>
+<img src="images/My_Data_Portfolio_Banner.jpg? raw=true"/>  
 
 ---
 
@@ -11,7 +11,7 @@
 Being an educator, our focus is always on what skills a student needs to graduate and to be successful in their future job. Massachusetts schools were also preparing their students for the workforce, so using <b>Tableau</b> I created a dashboard to analyze their education data.
 
 <br><br>
----
+
 ---
 ### [DoorDash Marketing Analysis](https://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor/)
 [<img src="images/Doordash_Graphic.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor)
