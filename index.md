@@ -8,8 +8,7 @@
 
 ### [Massachusetts Education Analysis](/Massachusetts_Education)
 <img src="images/Massachusetts Education Analysis Video.jpg?raw=true"/>
-Being an educator, our focus is always on what skills a student needs to graduate and to be successful in their future job.  As young as Kindergarten age, these students were being prepared to find a job and be successful in the workforce.  Massachusetts schools were also preparing their students for the workforce, so using <b>Tableau</b> I created a dashboard to analyze their education data.
-
+Being an educator, our focus is always on what skills a student needs to graduate and to be successful in their future job. Massachusetts schools were also preparing their students for the workforce, so using <b>Tableau</b> I created a dashboard to analyze their education data.
 
 <br><br>
 ---
