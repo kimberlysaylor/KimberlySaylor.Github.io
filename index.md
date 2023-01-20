@@ -7,15 +7,20 @@
 ---
 
 ### [Massachusetts Education Analysis](/Massachusetts_Education)
-Being an educator for many years, our focus was always on what skills a student needed to graduate and to be successful in their future job. Massachusetts schools were also preparing their students for the workforce, so using <b>Tableau</b> I created a dashboard to analyze their education data.
+
+Tableau|Data Visualization
 
 <a href="/Massachusetts_Education">
 <img src="images/Massachusetts Education Analysis Video.jpg?raw=true"/>
 </a>
 
+Being an educator for many years, our focus was always on what skills a student needed to graduate and to be successful in their future job. Massachusetts schools were also preparing their students for the workforce, so using <b>Tableau</b> I created a dashboard to analyze their education data.
 
 ---
 ### [DoorDash Marketing Analysis](https://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor/)
+
+Excel
+
 [<img src="images/Doordash_Graphic.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor)
 In this project I used Excel to analyze DoorDash data to determine which marketing campaign was most profitable. 
 
