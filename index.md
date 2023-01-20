@@ -6,9 +6,9 @@
 # General Analytics Projects
 ---
 
-### [Massachusetts Education Analysis](/Massachusetts_Education)
+### [Massachusetts Education Analysis](/Massachusetts_Education) <br>
 
-Tableau|Data Visualization
+Tableau|Data Visualization <br>
 
 <a href="/Massachusetts_Education">
 <img src="images/Massachusetts Education Analysis Video.jpg?raw=true"/>
