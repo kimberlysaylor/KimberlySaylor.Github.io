@@ -20,7 +20,6 @@ Being an educator for many years, our focus was always on what skills a student 
 ### [DoorDash Marketing Analysis](https://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor/)
 
 Excel|Vlookup|Pivot Tables
-
 [<img src="images/Doordash_Graphic.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor)
 In this project I used Excel to analyze DoorDash data to determine which marketing campaign was most profitable. 
 
