@@ -6,6 +6,12 @@
 # General Analytics Projects
 ---
 
+### [World Bank Analysis](https://www.linkedin.com/pulse/world-bank-analysis-kimberly-saylor/)
+
+SQL <br>
+[<img src="images/World_Bank_Analysis_Cover.png?raw=true"/>](https://www.linkedin.com/pulse/world-bank-analysis-kimberly-saylor/)
+
+---
 ### [Massachusetts Education Analysis](/Massachusetts_Education) <br>
 
 Tableau|Data Visualization <br>
