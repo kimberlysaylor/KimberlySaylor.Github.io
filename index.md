@@ -28,6 +28,7 @@ Being an educator for many years, our focus was always on what skills a student 
 
 Excel|Vlookup|Pivot Tables <br>
 [<img src="images/Doordash_Graphic.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor)
+
 In this project I used Excel to analyze DoorDash data to determine which marketing campaign was most profitable. 
 
 
@@ -35,8 +36,8 @@ In this project I used Excel to analyze DoorDash data to determine which marketi
 
 <!-- COMMENT:  Everything in this section is from Avery's original template.  Use these to create page when needed.
 #### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-(https://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>(https://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor)
+
 My first data analysis project on a food delivery service. 
 
 ---
