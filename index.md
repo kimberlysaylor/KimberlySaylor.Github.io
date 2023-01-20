@@ -9,7 +9,7 @@
 ### [Massachusetts Education Analysis](/Massachusetts_Education) <br>
 
 Tableau|Data Visualization|Monkey <br>
-
+Parameters | Charts | KPIs | Dashboard <br>
 <a href="/Massachusetts_Education">
 <img src="images/Massachusetts Education Analysis Video.jpg?raw=true"/>
 </a>
