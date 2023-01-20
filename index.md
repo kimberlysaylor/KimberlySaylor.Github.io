@@ -7,7 +7,7 @@
 ---
 
 ### [Massachusetts Education Analysis](/Massachusetts_Education)
-Being an educator, our focus is always on what skills a student needs to graduate and to be successful in their future job. Massachusetts schools were also preparing their students for the workforce, so using <b>Tableau</b> I created a dashboard to analyze their education data.
+Being an educator for many years, our focus was always on what skills a student needed to graduate and to be successful in their future job. Massachusetts schools were also preparing their students for the workforce, so using <b>Tableau</b> I created a dashboard to analyze their education data.
 
 <img src="images/Massachusetts Education Analysis Video.jpg?raw=true"/>
 Being an educator, our focus is always on what skills a student needs to graduate and to be successful in their future job. Massachusetts schools were also preparing their students for the workforce, so using <b>Tableau</b> I created a dashboard to analyze their education data.
