@@ -8,7 +8,7 @@
 
 ### [Massachusetts Education Analysis](/Massachusetts_Education)
 
-Tableau | Data Visualization
+Tableau I Data Visualization
 
 <a href="/Massachusetts_Education">
 <img src="images/Massachusetts Education Analysis Video.jpg?raw=true"/>
