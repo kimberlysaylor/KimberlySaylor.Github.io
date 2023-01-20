@@ -11,6 +11,8 @@
 SQL <br>
 [<img src="images/World_Bank_Analysis_Cover.png?raw=true"/>](https://www.linkedin.com/pulse/world-bank-analysis-kimberly-saylor/)
 
+This project is using data from the World Bank Group.  The International Development Assocatin (IDA) provides development credits, grants and guarantees to its recipient member countries to help meet their development needs.  I used SQL to focus on the top borrower and the projects funded by that borrower.
+
 ---
 ### [Massachusetts Education Analysis](/Massachusetts_Education) <br>
 
@@ -65,6 +67,7 @@ What are the top math schools in the state?
 
 - [DoorDash Analysis](http://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor/)
 - [Massachusetts Education Analysis](/Massachusetts_Education)
+- [World Bank Analysis](https://www.linkedin.com/pulse/world-bank-analysis-kimberly-saylor/)
 
 <!-- 
 - [Project 2 Title](http://example.com/)
