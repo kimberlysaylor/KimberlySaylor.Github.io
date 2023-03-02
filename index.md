@@ -6,6 +6,14 @@
 # General Analytics Projects
 ---
 
+### [Health Care Analysis](https://www.linkedin.com/pulse/world-bank-analysis-kimberly-saylor/)
+
+SQL <br>
+[<img src="images/World_Bank_Analysis_Cover.png?raw=true"/>](https://www.linkedin.com/pulse/world-bank-analysis-kimberly-saylor/)
+
+Using MySQL, I analyzed the impact of the length of stays in a hospital. Looking at the number of lab procedures and its correlation to the number of days a patient stays in the hospital, I discovered there were many readmissions to the hospital.
+
+---
 ### [World Bank Analysis](https://www.linkedin.com/pulse/world-bank-analysis-kimberly-saylor/)
 
 SQL <br>
