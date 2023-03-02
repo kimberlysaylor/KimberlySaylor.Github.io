@@ -9,7 +9,7 @@
 ### [Health Care Analysis](https://www.linkedin.com/pulse/world-bank-analysis-kimberly-saylor/)
 
 SQL <br>
-[<img src="images/World_Bank_Analysis_Cover.png?raw=true"/>](https://www.linkedin.com/pulse/world-bank-analysis-kimberly-saylor/)
+[<img src="images/Healthcare_Analysis_Cover.png?raw=true"/>](https://www.linkedin.com/pulse/world-bank-analysis-kimberly-saylor/)
 
 Using MySQL, I analyzed the impact of the length of stays in a hospital. Looking at the number of lab procedures and its correlation to the number of days a patient stays in the hospital, I discovered there were many readmissions to the hospital.
 
@@ -77,6 +77,8 @@ What are the top math schools in the state?
 - [DoorDash Analysis](http://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor/)
 - [Massachusetts Education Analysis](/Massachusetts_Education)
 - [World Bank Analysis](https://www.linkedin.com/pulse/world-bank-analysis-kimberly-saylor/)
+- [Healthcare Analysis](https://www.linkedin.com/pulse/world-bank-analysis-kimberly-saylor/)
+
 
 <!-- 
 - [Project 2 Title](http://example.com/)
