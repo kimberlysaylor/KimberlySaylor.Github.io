@@ -6,7 +6,7 @@
 # General Analytics Projects
 ---
 
-### [Health Care Analysis](https://www.linkedin.com/pulse/world-bank-analysis-kimberly-saylor/)
+### [Health Care Analysis](https://www.linkedin.com/pulse/healthcare-analysis-kimberly-saylor)
 
 SQL <br>
 [<img src="images/Healthcare_Analysis_Cover.png?raw=true"/>](https://www.linkedin.com/pulse/world-bank-analysis-kimberly-saylor/)
@@ -77,7 +77,7 @@ What are the top math schools in the state?
 - [DoorDash Analysis](http://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor/)
 - [Massachusetts Education Analysis](/Massachusetts_Education)
 - [World Bank Analysis](https://www.linkedin.com/pulse/world-bank-analysis-kimberly-saylor/)
-- [Healthcare Analysis](https://www.linkedin.com/pulse/world-bank-analysis-kimberly-saylor/)
+- [Healthcare Analysis](https://www.linkedin.com/pulse/healthcare-analysis-kimberly-saylor/)
 
 
 <!-- 
