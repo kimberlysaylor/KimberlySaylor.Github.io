@@ -85,6 +85,7 @@ What are the top math schools in the state?
 - [Massachusetts Education Analysis](/Massachusetts_Education)
 - [World Bank Analysis](https://www.linkedin.com/pulse/world-bank-analysis-kimberly-saylor/)
 - [Healthcare Analysis](https://www.linkedin.com/pulse/healthcare-analysis-kimberly-saylor/)
+- [NBA Basketball Analysis](https://www.linkedin.com/pulse/NBA-Basketball-analysis-kimberly-saylor)
 
 
 <!-- 
