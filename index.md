@@ -5,7 +5,7 @@
 
 # General Analytics Projects
 ---
-### [NBA Basketball Analysis](https://www.linkedin.com/pulse/NBA-Basketball-analysis-kimberly-saylor)
+### [NBA Basketball Analysis](https://www.linkedin.com/pulse/NBA-Basketball-analysis-kimberly-saylor) 
 
 Tableau|Data Visualization <br>
 [<img src="images/NBA_Basketball_ Analysis.png?raw=true"/>](https://www.linkedin.com/pulse/NBA-Basketball-analysis-kimberly-saylor/)
