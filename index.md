@@ -31,7 +31,7 @@ This project is using data from the World Bank Group.  The International Develop
 ---
 ### [Massachusetts Education Analysis](/Massachusetts_Education) <br>
 
-Tableau|Data Visualization <br>
+Tableau | Data Visualization <br>
 <a href="/Massachusetts_Education">
 <img src="images/Massachusetts Education Analysis Video.jpg?raw=true"/>
 </a>
@@ -41,7 +41,7 @@ Being an educator for many years, our focus was always on what skills a student 
 ---
 ### [DoorDash Marketing Analysis](https://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor/)
 
-Excel|Vlookup|Pivot Tables <br>
+Excel | Vlookup | Pivot Tables <br>
 [<img src="images/Doordash_Graphic.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-marketing-analysis-kimberly-saylor)
 
 In this project I used Excel to analyze DoorDash data to determine which marketing campaign was most profitable. 
