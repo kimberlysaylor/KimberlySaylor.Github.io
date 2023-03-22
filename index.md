@@ -8,7 +8,7 @@
 ### [NBA Basketball Analysis](https://www.linkedin.com/pulse/nba-basketball-analysis-kimberly-saylor)
 
 Tableau|Data Visualization <br>
-[<img src="images/NBA_Basketball_ Analysis.png?raw=true"/>](https://www.linkedin.com/pulse/NBA-Basketball-analysis-kimberly-saylor/)
+[<img src="images/NBA_Basketball_ Analysis.png?raw=true"/>](https://www.linkedin.com/pulse/nba-basketball-analysis-kimberly-saylor/)
 
 Using Tableau, I analyzed 2021-2022 NBA statistics of the teams, their players, and their positions. I was looking for how different players performed on total points, total assists, and total rebound. I also discovered the total points scored by each team as well as each player.  This analysis will help teams with planning for the next season and evaluating potential free-agent signings.  
 
@@ -85,7 +85,7 @@ What are the top math schools in the state?
 - [Massachusetts Education Analysis](/Massachusetts_Education)
 - [World Bank Analysis](https://www.linkedin.com/pulse/world-bank-analysis-kimberly-saylor/)
 - [Healthcare Analysis](https://www.linkedin.com/pulse/healthcare-analysis-kimberly-saylor/)
-- [NBA Basketball Analysis](https://www.linkedin.com/pulse/NBA-Basketball-analysis-kimberly-saylor)
+- [NBA Basketball Analysis](https://www.linkedin.com/pulse/nba-basketball-analysis-kimberly-saylor)
 
 
 <!-- 
