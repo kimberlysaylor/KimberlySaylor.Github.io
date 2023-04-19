@@ -8,7 +8,8 @@
 ### [Manufacturing Mining Process](https://www.linkedin.com/pulse/manufacturing-mining-process-kimberly-saylor)
 
 Python <br>
-[<img src="images/NBA_Basketball_ Analysis.png?raw=true"/>](https://www.linkedin.com/pulse/nba-basketball-analysis-kimberly-saylor/)
+[<img src="images/Manufacturing_Engineering_Project.png?raw=true"/>](https://www.linkedin.com/pulse/manufacturing-mining-process-kimberly-saylor/)
+
 
 Using Python, I analyzed a manufacturing company's metal process. I looked at their flotation plant to analyze what impurities are in the ore concentrate.
 
