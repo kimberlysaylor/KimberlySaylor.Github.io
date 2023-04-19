@@ -5,6 +5,14 @@
 
 # General Analytics Projects
 ---
+### [Manufacturing Mining Process](https://www.linkedin.com/pulse/manufacturing-mining-process-kimberly-saylor)
+
+Python <br>
+[<img src="images/NBA_Basketball_ Analysis.png?raw=true"/>](https://www.linkedin.com/pulse/nba-basketball-analysis-kimberly-saylor/)
+
+Using Python, I analyzed a manufacturing company's metal process. I looked at their flotation plant to analyze what impurities are in the ore concentrate.
+
+---
 ### [NBA Basketball Analysis](https://www.linkedin.com/pulse/nba-basketball-analysis-kimberly-saylor)
 
 Tableau | Data Visualization <br>
@@ -86,7 +94,7 @@ What are the top math schools in the state?
 - [World Bank Analysis](https://www.linkedin.com/pulse/world-bank-analysis-kimberly-saylor/)
 - [Healthcare Analysis](https://www.linkedin.com/pulse/healthcare-analysis-kimberly-saylor/)
 - [NBA Basketball Analysis](https://www.linkedin.com/pulse/nba-basketball-analysis-kimberly-saylor)
-
+- [Manufacturing Mining Process](https://www.linkedin.com/pulse/manufacturing-mining-process-kimberly-saylor)
 
 <!-- 
 - [Project 2 Title](http://example.com/)
